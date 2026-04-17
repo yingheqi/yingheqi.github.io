@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About
-I am currently a postdoc researcher at ETH Zurich working with Prof. Filippo Coletti. My research focuses on exploring and modeling the physics of multiphase flows using experiment. In particular, I am interested in free-surface flows and bubble dynamics in turbulence.
+I am currently a postdoc researcher at ETH Zurich working with Prof. Filippo Coletti. My research focuses on exploring and modeling the physics of multiphase flows using experiment. In particular, I am interested in free-surface flows and bubble dynamics in turbulence. See my [Research](/research/) page for more details.
 
 ## Education
 - 2023, Ph.D. in Mechanical Engineering, **Johns Hopkins University** (advisor: Prof. Rui Ni)
