@@ -8,14 +8,13 @@ author_profile: true
 
 My research focuses on:
 
-- Fluid dynamics
-- Particle-laden flows
-- Air–water interface phenomena
+- Free surface turbulence
+- Bubble/droplet laden turbulence
 
 ## Current Projects
 
-### Project 1
-Short description...
+### Particle rafts
+On the ocean surface, plastic debris commonly accumulates into large, floating clusters. These clusters are also referred to as particle rafts. The dynamics of these structures are a significant area of research, focusing on their interaction with underneath turbulence. Specifically, we are interested in the fundamental processes that govern their dispersion, deformation, fragmentation, and coalescence.
 
 ### Project 2
 Short description...
