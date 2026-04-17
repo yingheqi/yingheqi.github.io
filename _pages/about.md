@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Dr. Yinghe Qi
+# About
 I am currently a postdoc researcher at ETH Zurich working with Prof. Filippo Coletti. My research focuses on exploring and modeling the physics of multiphase flows using experiment. In particular, I am interested in free-surface flows and bubble dynamics in turbulence.
 
-# Education
-- 2023 Ph.D. in Mechanical Engineering, **Johns Hopkins University** (advisor: Prof. Rui Ni)
-- 2021 M.S.E. in Mechanical Engineering, **Johns Hopkins University** (advisor: Prof. Gretar Tryggvason)
-- 2017 B.S. in Ships and Ocean Engineering, **Shanghai Jiao Tong University** (advisor Prof. Renchuan Zhu)
+## Education
+- 2023, Ph.D. in Mechanical Engineering, **Johns Hopkins University** (advisor: Prof. Rui Ni)
+- 2021, M.S.E. in Mechanical Engineering, **Johns Hopkins University** (advisor: Prof. Gretar Tryggvason)
+- 2017, B.S. in Ships and Ocean Engineering, **Shanghai Jiao Tong University** (advisor Prof. Renchuan Zhu)
 
-# Awards
-- 2023 **Corrsin-Kovasznay Outstanding Paper Award**, *recognizing a young JHU scholar who is lead author of a recent paper in fluid mechanics for the work’s excellence, originality and potential impact.*
-- 2022 **Creel Family Teaching Assistant Award**, *awarded to teaching assistants play a key role in education to recognize their effort, enthusiasm, and contribution to the Department of Mechanical Engineering.*
+## Awards
+- 2023, **Corrsin-Kovasznay Outstanding Paper Award**, *recognizing a young JHU scholar who is lead author of a recent paper in fluid mechanics for the work’s excellence, originality and potential impact.*
+- 2022, **Creel Family Teaching Assistant Award**, *awarded to teaching assistants play a key role in education to recognize their effort, enthusiasm, and contribution to the Department of Mechanical Engineering.*
