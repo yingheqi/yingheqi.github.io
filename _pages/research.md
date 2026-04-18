@@ -14,7 +14,7 @@ On the ocean surface, plastic debris commonly accumulates into large, floating c
   </video>
 </div>
 
-*The figure above shows the breakup and coalescence events of particle clusters on the free surface. We track the clusters by following each individual particles in them. *
+*The figure above shows the breakup and coalescence events of particle clusters on the free surface. We track the clusters by following each individual particles in them.*
 
 ## Free-surface flows
 Free-surface flows are ubiquitous in nature, as seen at the surface of rivers, lakes and oceans. Here, we focus on the fundamental dynamics of free-surface flows, such as spatial and temporal scales, topology, and the structure function. These further enable us to better understand essential questions including energy transfer among different scales and the strong intermittency.
