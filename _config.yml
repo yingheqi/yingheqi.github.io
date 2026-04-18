@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yinghe Qi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Shanghai, China"
-  employer         : "Red Brick University"
+  bio              : "Postdoc researcher at ETH Zurich"
+  location         : "Zurich, Switzerland"
+  employer         : "ETH Zurich"
   uri              : # URL
   email            : "yingqi@ethz.ch" 
 
