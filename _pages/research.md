@@ -13,7 +13,6 @@ On the ocean surface, plastic debris commonly accumulates into large, floating c
     <source src="/images/particle_rafts.mp4" type="video/mp4">
   </video>
 </div>
-
 *The figure above shows the breakup and coalescence events of particle clusters on the free surface. We track the clusters by following each individual particles in them.*
 
 ## Free-surface flows
@@ -24,7 +23,6 @@ Free-surface flows are ubiquitous in nature, as seen at the surface of rivers, l
     <source src="/images/flow_field.mp4" type="video/mp4">
   </video>
 </div>
-
 *This figure shows the trajectories of floating tracers on the free surface. We perform high-concentration PTV to resolve the smallest scales in turbulence.*
 
 ## Bubble deformation and breakup
@@ -47,9 +45,6 @@ Deformation and breakup of bubbles affect the energy and mass transfer through t
   </div>
 
 </div>
-<br/>
-
-
 *Left: the breakup of a bubble in a large-scale coherent vortex. Right: the bubble breakup in turbulence in which small-scale eddies dominate.*
 
 ## Deformation of fluid elements
