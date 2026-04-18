@@ -13,7 +13,7 @@ On the ocean surface, plastic debris commonly accumulates into large, floating c
   </video>
 </p>
 
-The figure above shows the breakup and coalescence events of particle clusters on the free surface. We track the clusters by following each individual particles in them. 
+*The figure above shows the breakup and coalescence events of particle clusters on the free surface. We track the clusters by following each individual particles in them. *
 
 ## Free-surface flows
 Free-surface flows are ubiquitous in nature, as seen at the surface of rivers, lakes and oceans. Here, we focus on the fundamental dynamics of free-surface flows, such as spatial and temporal scales, topology, and the structure function. These further enable us to better understand essential questions including energy transfer among different scales and the strong intermittency.
@@ -24,7 +24,7 @@ Free-surface flows are ubiquitous in nature, as seen at the surface of rivers, l
   </video>
 </p>
 
-This figure shows the trajectories of floating tracers on the free surface. We perform high-concentration PTV to resolve the smallest scales in turbulence.
+*This figure shows the trajectories of floating tracers on the free surface. We perform high-concentration PTV to resolve the smallest scales in turbulence.*
 
 ## Bubble deformation and breakup
 Deformation and breakup of bubbles affect the energy and mass transfer through the interface. We approach this problem by using 3D PTV and visual hull method which allow us to reconstruct simultaneously the 3D bubble geometry and the surrounding flow. This helps us to probe the interaction between bubbles and eddies of different length scales in turbulence.
@@ -47,7 +47,8 @@ Deformation and breakup of bubbles affect the energy and mass transfer through t
 
 </div>
 
-Left: the breakup of a bubble in a large-scale coherent vortex. Right: the bubble breakup in turbulence in which small-scale eddies dominate.
+
+*Left: the breakup of a bubble in a large-scale coherent vortex. Right: the bubble breakup in turbulence in which small-scale eddies dominate.*
 
 ## Deformation of fluid elements
 Turbulent mixing is a complex process that involves the combination of stretching and folding of fluid elements, as first described by Reynolds in 1894. Our understanding of the folding process, however, remains limited due to its inherent nonlinearity. Here, we model the folding of fluid elements in turbulence by examining their curvature, revealing the dominant folding mechanisms at different stages.
@@ -58,4 +59,4 @@ Turbulent mixing is a complex process that involves the combination of stretchin
   </video>
 </p>
 
-The deformation process of an initially spherical fluid element in turbulence. The stretching and folding of the element is clearly visible here.
+*The deformation process of an initially spherical fluid element in turbulence. The stretching and folding of the element is clearly visible here.*
