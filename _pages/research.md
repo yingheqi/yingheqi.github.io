@@ -13,7 +13,7 @@ My research focuses on:
 On the ocean surface, plastic debris commonly accumulates into large, floating clusters. These clusters are also referred to as particle rafts. The dynamics of these structures are a significant area of research, focusing on their interaction with underneath turbulence. Specifically, we are interested in the fundamental processes that govern their dispersion, deformation, fragmentation, and coalescence.
 
 <p align="center">
-  <video width="600" autoplay loop muted playsinline>
+  <video width="450" autoplay loop muted playsinline>
     <source src="/images/particle_rafts.mp4" type="video/mp4">
   </video>
 </p>
@@ -52,7 +52,7 @@ Deformation and breakup of bubbles affect the energy and mass transfer through t
 Turbulent mixing is a complex process that involves the combination of stretching and folding of fluid elements, as first described by Reynolds in 1894. Our understanding of the folding process, however, remains limited due to its inherent nonlinearity. Here, we model the folding of fluid elements in turbulence by examining their curvature, revealing the dominant folding mechanisms at different stages.
 
 <p align="center">
-  <video width="600" autoplay loop muted playsinline>
+  <video width="400" autoplay loop muted playsinline>
     <source src="/images/fluid_element.mp4" type="video/mp4">
   </video>
 </p>
