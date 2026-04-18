@@ -12,16 +12,21 @@ My research focuses on:
 ## Particle rafts
 On the ocean surface, plastic debris commonly accumulates into large, floating clusters. These clusters are also referred to as particle rafts. The dynamics of these structures are a significant area of research, focusing on their interaction with underneath turbulence. Specifically, we are interested in the fundamental processes that govern their dispersion, deformation, fragmentation, and coalescence.
 
-
 <div style="display: flex; justify-content: center; gap: 20px;">
 
-  <video width="45%" autoplay loop muted playsinline>
-    <source src="/images/primary_breakup.mp4" type="video/mp4">
-  </video>
+  <div style="width:45%; height:250px; overflow:hidden;">
+    <video autoplay loop muted playsinline 
+           style="width:100%; height:100%; object-fit:cover;">
+      <source src="/images/primary_breakup.mp4" type="video/mp4">
+    </video>
+  </div>
 
-  <video width="45%" autoplay loop muted playsinline>
-    <source src="/images/secondary_breakup.mp4" type="video/mp4">
-  </video>
+  <div style="width:45%; height:250px; overflow:hidden;">
+    <video autoplay loop muted playsinline 
+           style="width:100%; height:100%; object-fit:cover;">
+      <source src="/images/secondary_breakup.mp4" type="video/mp4">
+    </video>
+  </div>
 
 </div>
 
