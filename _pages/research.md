@@ -48,9 +48,9 @@ Deformation and breakup of bubbles affect the energy and mass transfer through t
     </video>
   </div>
 
-  <div style="width:100%; margin-top: 10px; font-style: italic; text-align: center;">
-    Left: the breakup of a bubble in a large-scale coherent vortex. Right: the bubble breakup in turbulence in which small-scale eddies dominate.
-  </div>
+</div>
+<div style="margin-top: 10px; font-style: italic; text-align: center;">
+  Left: the breakup of a bubble in a large-scale coherent vortex. Right: the bubble breakup in turbulence in which small-scale eddies dominate.
 </div>
 
 ## Deformation of fluid elements
