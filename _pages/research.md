@@ -32,21 +32,22 @@ Deformation and breakup of bubbles affect the energy and mass transfer through t
 
 <div style="display: flex; justify-content: center; gap: 20px;">
 
-  <div style="width:45%; height:300px; overflow:hidden;">
-    <video autoplay loop muted playsinline 
-           style="width:100%; height:100%; object-fit:cover;">
+  <div style="width:45%;">
+    <video autoplay loop muted playsinline
+           style="width:100%; height:auto; object-fit:contain;">
       <source src="/images/primary_breakup.mp4" type="video/mp4">
     </video>
   </div>
 
-  <div style="width:45%; height:300px; overflow:hidden;">
-    <video autoplay loop muted playsinline 
-           style="width:100%; height:100%; object-fit:cover;">
+  <div style="width:45%;">
+    <video autoplay loop muted playsinline
+           style="width:100%; height:auto; object-fit:contain;">
       <source src="/images/secondary_breakup.mp4" type="video/mp4">
     </video>
   </div>
 
 </div>
+<br/>
 
 
 *Left: the breakup of a bubble in a large-scale coherent vortex. Right: the bubble breakup in turbulence in which small-scale eddies dominate.*
