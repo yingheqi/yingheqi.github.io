@@ -13,12 +13,12 @@ On the ocean surface, plastic debris commonly accumulates into large, floating c
     <source src="/images/particle_rafts.mp4" type="video/mp4">
   </video>
   <div style="margin-top: 10px; font-style: italic;">
-    The figure above shows the breakup and coalescence events of particle clusters on the free surface. We track the clusters by following each individual particles in them.
+    The figure above shows the breakup and coalescence events of particle clusters on the free surface. We track the clusters by following each individual particle in them.
   </div>
 </div>
 
 ## Free-surface flows
-Free-surface flows are ubiquitous in nature, as seen at the surface of rivers, lakes and oceans. Here, we focus on the fundamental dynamics of free-surface flows, such as spatial and temporal scales, topology, and the structure function. These further enable us to better understand essential questions including energy transfer among different scales and the strong intermittency.
+Free-surface flows are ubiquitous in nature, as seen at the surfaces of rivers, lakes, and oceans. Here, we focus on the fundamental dynamics of free-surface flows, such as spatial and temporal scales, topology, and structure functions. These further enable us to better understand essential questions including energy transfer among different scales and strong intermittency.
 
 <div style="text-align: center; margin: 10px 0 30px;">
   <video style="width:90%; max-width:600px; height:auto;" autoplay loop muted playsinline>
@@ -30,7 +30,7 @@ Free-surface flows are ubiquitous in nature, as seen at the surface of rivers, l
 </div>
 
 ## Bubble deformation and breakup
-Deformation and breakup of bubbles affect the energy and mass transfer through the interface. We approach this problem by using 3D PTV and visual hull method which allow us to reconstruct simultaneously the 3D bubble geometry and the surrounding flow. This helps us to probe the interaction between bubbles and eddies of different length scales in turbulence.
+Deformation and breakup of bubbles affect the energy and mass transfer through the interface. We approach this problem by using 3D PTV and visual hull method which allow us to reconstruct simultaneously the 3D bubble geometry and the surrounding flow. This helps us probe the interaction between bubbles and eddies of different length scales in turbulence.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
 
@@ -54,13 +54,13 @@ Deformation and breakup of bubbles affect the energy and mass transfer through t
 </div>
 
 ## Deformation of fluid elements
-Turbulent mixing is a complex process that involves the combination of stretching and folding of fluid elements, as first described by Reynolds in 1894. Our understanding of the folding process, however, remains limited due to its inherent nonlinearity. Here, we model the folding of fluid elements in turbulence by examining their curvature, revealing the dominant folding mechanisms at different stages.
+Deformation of fluid elements in turbulence, which involves both stretching and folding, is the key process in turbulent mixing, as first described by Reynolds in 1894. Our understanding of the folding process, however, remains limited due to its inherent nonlinearity. Here, we model the folding of fluid elements in turbulence by examining their curvature, revealing the dominant folding mechanisms at different stages.
 
 <div style="text-align: center; margin: 10px 0 30px;">
   <video style="width:90%; max-width:400px; height:auto;" autoplay loop muted playsinline>
     <source src="/images/fluid_element.mp4" type="video/mp4">
   </video>
   <div style="margin-top: 10px; font-style: italic;">
-    The deformation process of an initially spherical fluid element in turbulence. The stretching and folding of the element is clearly visible here.
+    The deformation process of an initially spherical fluid element in turbulence. The stretching and folding of the element are clearly visible here.
   </div>
 </div>
